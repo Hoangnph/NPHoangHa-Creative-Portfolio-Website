@@ -7,6 +7,7 @@ import {
   Phone,
   Twitter,
   User,
+  Facebook,
 } from "lucide-react";
 import Link from "next/link";
 import React from "react";
@@ -26,6 +27,8 @@ const getIcon = (icon) => {
       return <Phone className="w-full h-auto" strokeWidth={1.5} />;
     case "github":
       return <Github className="w-full h-auto" strokeWidth={1.5} />;
+    case "facebook":
+      return <Facebook className="w-full h-auto" strokeWidth={1.5} />;
     case "linkedin":
       return <Linkedin className="w-full h-auto" strokeWidth={1.5} />;
     case "twitter":

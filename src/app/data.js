@@ -95,9 +95,9 @@ export const BtnList = [
   { label: "Projects", link: "/projects", icon: "projects", newTab: false },
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
-    label: "Github",
+    label: "Facebook",
     link: "https://www.github.com/codebucks27",
-    icon: "github",
+    icon: "facebook",
     newTab: true,
   },
   {
@@ -119,5 +119,3 @@ export const BtnList = [
     newTab: true,
   },
 ];
-
-
