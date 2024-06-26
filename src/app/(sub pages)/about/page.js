@@ -37,7 +37,7 @@ export default function Home() {
         </RenderModel> */}
         <iframe
           className="w-full aspect-video self-stretch md:min-h-96"
-          src="https://www.youtube.com/embed/URVHRhBSjj8"
+          src="https://www.youtube.com/embed/LT7tL8slZdo"
           title="Product Overview Video"
           aria-hidden="true"
         />
